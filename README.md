@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Deliveboo](https://github.com/albim360/Deliveboo-back)
 
-- 🌱 I’m currently learning **Typescript - Tailwind and more**
+- 🌱 I’m currently learning **React - Typescript - Tailwind and more**
 
 - 👨‍💻 All of my projects are available at [https://albertoz.dev](https://albertoz.dev)
 
