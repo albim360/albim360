@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React - Typescript - Tailwind and more**
 
-- 👨‍💻 All of my projects are available at [https://albertoz.dev](https://albertoz.dev)
+- 👨‍💻 My Portfolio [https://albertoz.dev](https://albertoz.dev)
 
 - 📫 How to reach me **info@albertoz.dev**
 
