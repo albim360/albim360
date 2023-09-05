@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alberto Zappala'</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-- 🔭 I’m currently working on [Deliveboo](https://github.com/albim360/Deliveboo-back)
+- 🔭 I’m currently working on [VueJS Translation](https://github.com/albim360/docs-it)
 
 - 🌱 I’m currently learning **React - Typescript - Tailwind and more**
 
